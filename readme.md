@@ -25,7 +25,7 @@ Desarrollar un servidor backend en Node.js que se conecta a una API externa y si
 - Inicializa un nuevo repositorio Git 'git init'.
 - Agregar todos los archivos al repositorio 'git add .'
 - Realizar el primer commit 'git commit -m "Primer commit".
-* Recomendaciones adicionales: 
+##### Recomendaciones adicionales: 
  1. Archivo '.gitignore': 
  - Crear un archivo llamado '.gitignore' en la raíz de nuestro proyecto para especificar los archivos y carpetas que no deben ser rastreados por Git.
  - Trabajar con branches para desarrollar nuevas características o solucionar problemas sin afectar la rama principal:
